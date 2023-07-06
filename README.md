@@ -15,5 +15,5 @@
 ![DCGAN_Simplest](https://github.com/AGI-init/Assets/assets/92597756/16a6eca0-10b1-4081-8903-952e1a5680d2)
 ![DCGAN](https://github.com/AGI-init/Assets/assets/92597756/c149933e-23a3-4f39-a0cf-996b7c5bb2d9)
 ![DomainsAndUnifications](https://github.com/AGI-init/Assets/assets/92597756/62919357-3450-4340-b2ea-bb7b9c91d2d5)
-![DomainsAndUnifications](https://github.com/AGI-init/Assets/assets/92597756/79d39050-9424-4ae8-a125-f52002443f1f)
-![DomainsAndUnifications](https://github.com/AGI-init/Assets/assets/92597756/05c0f5bb-c4b8-495c-abca-bfe6d4c5b16f)
+![What_is](https://github.com/AGI-init/Assets/assets/92597756/79d39050-9424-4ae8-a125-f52002443f1f)
+![What_is_dark](https://github.com/AGI-init/Assets/assets/92597756/05c0f5bb-c4b8-495c-abca-bfe6d4c5b16f)

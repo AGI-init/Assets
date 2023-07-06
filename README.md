@@ -17,4 +17,4 @@
 ![DomainsAndUnifications](https://github.com/AGI-init/Assets/assets/92597756/62919357-3450-4340-b2ea-bb7b9c91d2d5)
 ![What_is](https://github.com/AGI-init/Assets/assets/92597756/d92e6b3f-9625-427c-87ef-909b3ec40f08)
 ![What_is2](https://github.com/AGI-init/Assets/assets/92597756/79d39050-9424-4ae8-a125-f52002443f1f)
-![What_is_dark](https://github.com/AGI-init/Assets/assets/92597756/919ebe76-6c02-4499-8caf-b528a7d6a035)
+![What_is_dark](https://github.com/AGI-init/Assets/assets/92597756/cf59c5b2-50ce-46a6-a72c-0d5d8a68450f)
